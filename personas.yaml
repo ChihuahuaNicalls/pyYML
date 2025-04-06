@@ -1,0 +1,10 @@
+personas:
+- ciudad: Madrid
+  edad: 30
+  nombre: Ana
+- ciudad: Barcelona
+  edad: 25
+  nombre: Luis
+- ciudad: Bogota
+  edad: 19
+  nombre: Juan
